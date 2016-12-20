@@ -23,5 +23,14 @@
   		<artifactId>netty-handler</artifactId>
   		<version>4.1.6.Final</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-context</artifactId>
+  		<version>4.3.4.RELEASE</version>
+  	</dependency>
   </dependencies>
+  <properties>
+  	<maven.compiler.source>1.8</maven.compiler.source>
+  	<maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
 </project>
